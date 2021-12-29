@@ -1,1 +1,2 @@
-# literary_library
+# Personal Literary Library Database
+
